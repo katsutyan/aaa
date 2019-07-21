@@ -1,1 +1,8 @@
-
+im1 = imread('images/yubi1.jpg')
+im2 = imread('images/yubi2.jpg')
+im3 = imread('images/yubi3.jpg')
+im4 = imread('images/yubi4.jpg')
+y=[im1.mean(),im2.mean(),im3.mean(),im4.mean()]
+x=[1,2,3,4]
+plt.plot(x,y,'o')
+plt.show()
