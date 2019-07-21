@@ -47,9 +47,9 @@
 
 依存ライブラリ
 
-　np(version
+　np(version 1.16.4)
 
-　plt(version
+　matplotlib
 
 　
 参考サイト
